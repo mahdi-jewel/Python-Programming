@@ -11,4 +11,4 @@ while counter < 36:
     turtle.right(10)
     counter += 1
 
-turtle.exitonclick()
+turtle.exitonclick() #Exit from turtle
