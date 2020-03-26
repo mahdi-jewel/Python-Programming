@@ -1,2 +1,2 @@
 # Python-Programming
-some source code for python program to share with python learner.
+some source code for python program sharing with python learner.
